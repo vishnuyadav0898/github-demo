@@ -1,3 +1,3 @@
 # github-demo
 about github
-auther vishnuhurda
+author vishnuhurda
